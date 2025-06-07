@@ -11,6 +11,7 @@ Many African languages remain underrepresented in AI. TaurAI aims to:
 - Promote open collaboration among African AI researchers
 
 ## 📁 Project Structure
+```bash
 
 TaurAI/
 │
