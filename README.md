@@ -2,7 +2,7 @@
 
 **taurAI** is a grassroots Natural Language Processing (NLP) project focused on curating, processing, and modeling **low-resource African languages**, starting with **Shona** and **Ndebele**.
 
-## 🌍 Why TaurAI?
+## 🌍 Why taurAI?
 
 Many African languages remain underrepresented in AI. TaurAI aims to:
 - Build quality sentiment datasets in Shona and Ndebele
@@ -12,7 +12,6 @@ Many African languages remain underrepresented in AI. TaurAI aims to:
 
 ## 📁 Project Structure
 ```bash
-
 TaurAI/
 │
 ├── data/
@@ -28,15 +27,17 @@ TaurAI/
 │
 ├── README.md
 └── requirements.txt
+```
 
-📊 Datasets
+
+## 📊 Datasets
 Language	# Samples	Sentiments
 Shona	~150+	Positive, Negative, Neutral
 Ndebele	~150+	Positive, Negative, Neutral
 
 We’re still growing! Contributions welcome.
 
- Goals
+ ## Goals
  Curate initial sentiment datasets
 
  Train first classifier (logistic regression, then transformers)
@@ -45,7 +46,7 @@ We’re still growing! Contributions welcome.
 
  Deploy demo with Gradio or Streamlit
 
-🤝 How to Contribute
+## 🤝 How to Contribute
 Clone the repo
 
 Add new samples to the data/ folder
